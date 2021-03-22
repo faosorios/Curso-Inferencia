@@ -1,6 +1,6 @@
 # Curso de Inferencia Estadística
 
-Este repositorio contiene el material del curso MAT-206: Inferencia Estadística (Universidad Técnica Federico Santa María).
+Este repositorio contiene el material del curso **MAT-206: Inferencia Estadística** (Universidad Técnica Federico Santa María).
 
 ## Descripción de la asignatura
 
