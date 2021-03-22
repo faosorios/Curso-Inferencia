@@ -1,0 +1,2 @@
+# Curso-Inferencia
+Inferencia Estadística
