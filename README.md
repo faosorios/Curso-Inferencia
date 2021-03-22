@@ -6,6 +6,8 @@ Este repositorio contiene el material del curso **MAT-206: Inferencia Estadísti
 
 El objetivo del curso es presentar los conceptos fundamentales de inferencia estadística. El enfoque de la asignatura es presentar herramientas que correspondan a un vehículo que permita llevar a cabo el análisis de un conjunto de datos. El desarrollo de la asignatura está fuertemente basado en realizar supuestos distribucionales clásicos y por tanto la exposición estará relacionada de manera importante con la función de verosimilitud. A medida que se progrese en los contenidos se revisará procedimientos de estimación y prueba de hipótesis relajando una serie de supuestos para el contexto más general de ecuaciones de estimación.
 
+[PDF con las notas de clases](https://github.com/faosorios/Curso-Inferencia/blob/main/notas-de-clase.pdf)
+
 ## Referencias 
 
 * Casella, G., Berger, R.L. (2002). *Statistical Inference* (2nd Ed.). Duxbury, Pacific Grove.
