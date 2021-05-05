@@ -36,3 +36,10 @@ Las **diapositivas** y **sesiones de clases** dictados durante el 2do semestre d
 - Clase 15: Test de hipótesis I [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-15.pdf), [[video]](https://youtu.be/cYPcBNAQWAc)
 - Clase 16: Test de hipótesis II [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-16.pdf), [[video]](https://youtu.be/eLHbg9ZXI_E)
 - Clase 17: Test basados en la verosimilitud [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-17.pdf), [[video]](https://youtu.be/xhHrrAvSeP4)
+
+## Evaluaciones
+
+Evaluaciones de años anteriores:
+- **2020:** [[Certamen 1]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C1_2020.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C2_2020.pdf), [[Certamen 3]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C3_2020.pdf)
+- **2018:** [[Certamen 1]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C1_2018.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C2_2018.pdf), [[Certamen 3]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C2_2018.pdf)
+- **2017:** [[Certamen 1]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C1_2017.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C2_2017.pdf), [[Certamen 3]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C2_2017.pdf)
