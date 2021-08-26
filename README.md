@@ -16,7 +16,7 @@ El objetivo del curso es introducir los conceptos fundamentales de inferencia es
 
 ## Notas de clases
 
-El contenido de las notas de clase se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. El PDF con las **notas de clase** se pueden encontrar en el siguiente [link](https://github.com/faosorios/Curso-Inferencia/blob/main/notas%20de%20clase/Inferencia.pdf)
+El contenido de las notas de clase se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. El PDF con las **notas de clase** se pueden encontrar en el siguiente [[link]](https://github.com/faosorios/Curso-Inferencia/blob/main/notas%20de%20clase/Inferencia.pdf)
 
 ## Material 2do semestre 2020
 
