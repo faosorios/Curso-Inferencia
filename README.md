@@ -18,6 +18,8 @@ El objetivo del curso es presentar los conceptos fundamentales de inferencia est
 
 El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. El PDF con las **notas de clase** se pueden encontrar en el siguiente [link](https://github.com/faosorios/Curso-Inferencia/blob/main/notas%20de%20clase/Inferencia.pdf)
 
+## Material 2do semestre 2020
+
 Las **diapositivas** y **sesiones de clases** dictados durante el 2do semestre de 2020 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI-XaHEOjjBuwKAIm4mkZPKz8)
 
 - Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-01.pdf), [[video]](https://youtu.be/zpd7d8xV6R8)
