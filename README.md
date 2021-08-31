@@ -22,7 +22,7 @@ El contenido de las notas de clase se encuentra en desarrollo y cambios pueden s
 
 A continuación se encuentran disponibles las **diapositivas** y **sesiones de clases** para el semestre 2021-2:
 
-- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-01.pdf)
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-01.pdf), [[video]](https://youtu.be/_9xeGzfw5yA)
 - Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-02.pdf)
 
 ## Material 2do semestre 2020
