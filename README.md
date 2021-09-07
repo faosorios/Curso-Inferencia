@@ -29,6 +29,7 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-01.pdf), [[video]](https://youtu.be/_9xeGzfw5yA)
 - Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-02.pdf), [[video]](https://youtu.be/O4V3g9MBTBU)
 - Clase 3: Modelo estadístico [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-03.pdf), [[video]](https://youtu.be/CQkv4lf1GDo)
+- Clase 4: Familia exponencial [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-04.pdf)
 
 ## Material 2do semestre 2020
 
