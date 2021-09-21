@@ -30,7 +30,7 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-02.pdf), [[video]](https://youtu.be/O4V3g9MBTBU)
 - Clase 3: Modelo estadístico [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-03.pdf), [[video]](https://youtu.be/CQkv4lf1GDo)
 - Clase 4: Familia exponencial [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-04.pdf), [[video]](https://youtu.be/Qvxc-rWNkmE)
-- Clase 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-05.pdf)
+- Clase 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-05.pdf), [[video]](https://youtu.be/OIjV9lHfdAs)
 
 ## Material 2do semestre 2020
 
