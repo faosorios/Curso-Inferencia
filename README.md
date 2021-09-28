@@ -33,6 +33,7 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-05.pdf), [[video]](https://youtu.be/OIjV9lHfdAs)
 - Clase 6: Suficiencia y verosimilitud [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-06.pdf), [[video]](https://youtu.be/ezGNeF37bOc)
 - Clase 7: Propiedades de la verosimilitud [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-07.pdf), [[video]](https://youtu.be/pNFSsMcaUYs)
+- Clase 8: Método de momentos [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-08.pdf)
 
 ## Material 2do semestre 2020
 
