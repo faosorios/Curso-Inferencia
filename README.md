@@ -36,7 +36,7 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 8: Método de momentos [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-08.pdf), [[video]](https://youtu.be/9oLZIAswgGg)
 - Clase 9: Método de máxima verosimilitud [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-09.pdf), [[video]](https://youtu.be/PyFcXQePjTA)
 - Clase 10: Propiedades de estimadores puntuales [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-10.pdf), [[video]](https://youtu.be/k1BQRqHcTDo)
-- Clase 11: Propiedades asintóticas [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-10.pdf)
+- Clase 11: Propiedades asintóticas [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-11.pdf)
 
 ## Material 2do semestre 2020
 
