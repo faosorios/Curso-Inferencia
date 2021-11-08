@@ -37,7 +37,8 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 9: Método de máxima verosimilitud [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-09.pdf), [[video]](https://youtu.be/PyFcXQePjTA)
 - Clase 10: Propiedades de estimadores puntuales [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-10.pdf), [[video 1]](https://youtu.be/k1BQRqHcTDo), [[video 2]](https://youtu.be/q9zR-wkq6dY)
 - Clase 11: Propiedades asintóticas [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-11.pdf), [[video]](https://youtu.be/XhOYcsGccac)
-- Clase 12: Ejemplos de estimación [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-12.pdf), [[video]](https://youtu.be/UWYtBSXrW2Q)
+- Clase 12: Ejemplos de estimación [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-12.pdf), [[video]](https://youtu.be/9iJX9H9KW3E)
+- Clase 13: Extremum estimators [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-13.pdf), [[video]](https://youtu.be/UWYtBSXrW2Q)
 
 ## Material 2do semestre 2020
 
