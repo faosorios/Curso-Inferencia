@@ -39,7 +39,7 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 11: Propiedades asintóticas [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-11.pdf), [[video]](https://youtu.be/XhOYcsGccac)
 - Clase 12: Ejemplos de estimación [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-12.pdf), [[video]](https://youtu.be/9iJX9H9KW3E)
 - Clase 13: Extremum estimators [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-13.pdf), [[video]](https://youtu.be/UWYtBSXrW2Q)
-- Clase 14: Funciones de inferencia [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-14.pdf), [[video]](https://youtu.be/px7AKZcLKqw)
+- Clase 14: Funciones de inferencia [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-14.pdf), [[video 1]](https://youtu.be/px7AKZcLKqw), [[video 2]](https://youtu.be/uG32L6H767w)
 
 ## Material 2do semestre 2020
 
