@@ -67,6 +67,7 @@ Las **diapositivas** y **sesiones de clases** dictados durante el 2do semestre d
 
 Evaluaciones del 2do semestre de **2021**:
 - [[Certamen 1]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C1_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-P1_2021.pdf)
+- [[Certamen 2]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C2_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-P2_2021.pdf)
 
 Evaluaciones de años anteriores:
 - **2020:** [[Certamen 1]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C1_2020.pdf), [[Pauta]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-P1_2020.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C2_2020.pdf), [[Pauta]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-P2_2020.pdf) | [[Certamen 3]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-C3_2020.pdf), [[Pauta]](https://github.com/faosorios/Curso-Inferencia/blob/main/evaluaciones/MAT206-P3_2020.pdf)
