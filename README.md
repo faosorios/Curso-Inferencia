@@ -40,7 +40,8 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 12: Ejemplos de estimación [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-12.pdf), [[video]](https://youtu.be/9iJX9H9KW3E)
 - Clase 13: Extremum estimators [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-13.pdf), [[video]](https://youtu.be/UWYtBSXrW2Q)
 - Clase 14: Funciones de inferencia [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-14.pdf), [[video 1]](https://youtu.be/px7AKZcLKqw), [[video 2]](https://youtu.be/uG32L6H767w)
-- Clase 15: Intervalos y regiones de confianza [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-15.pdf)
+- Clase 15: Intervalos y regiones de confianza [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-15.pdf), [[video]](https://youtu.be/d5h9wRAbRm4)
+- Clase 16: Introducción a test de hipótesis [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-15.pdf), [[video]](https://youtu.be/KqPIRk2cqjM)
 
 ## Material 2do semestre 2020
 
