@@ -41,8 +41,8 @@ A continuación se encuentran disponibles las **diapositivas** y **sesiones de c
 - Clase 13: Extremum estimators [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-13.pdf), [[video]](https://youtu.be/UWYtBSXrW2Q)
 - Clase 14: Funciones de inferencia [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-14.pdf), [[video 1]](https://youtu.be/px7AKZcLKqw), [[video 2]](https://youtu.be/uG32L6H767w)
 - Clase 15: Intervalos y regiones de confianza [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-15.pdf), [[video]](https://youtu.be/d5h9wRAbRm4)
-- Clase 16: Introducción a test de hipótesis [[slides 1]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-16.pdf), [[slides 2]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-17.pdf), [[video 1]](https://youtu.be/KqPIRk2cqjM)
-- Clase 17: Test basados en la verosimilitud [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-18.pdf)
+- Clase 16: Introducción a test de hipótesis [[slides 1]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-16.pdf), [[slides 2]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-17.pdf), [[video 1]](https://youtu.be/KqPIRk2cqjM), [[video 2]](https://youtu.be/J7rkK1g-A28)
+- Clase 17: Test basados en la verosimilitud [[slides]](https://github.com/faosorios/Curso-Inferencia/blob/main/diapositivas/MAT206_slides-18.pdf), [[video]](https://youtu.be/5H_jLg2-udM)
 
 ## Evaluaciones
 
