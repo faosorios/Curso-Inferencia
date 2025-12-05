@@ -1,7 +1,7 @@
 # Curso de Inferencia Estadística
 ![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/Curso-Inferencia)
 
-Este repositorio contiene el material del curso **MAT-206: Inferencia Estadística** (Universidad Técnica Federico Santa María).
+Este repositorio contiene el material del curso **MGE-201: Inferencia Estadística** (Universidad de Valparaíso).
 
 ## Descripción de la asignatura
 
